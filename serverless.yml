@@ -12,4 +12,9 @@ provider:
 
 functions:
   hello:
+<<<<<<< HEAD
     handler: tests/test.randomNum
+=======
+    handler: tests/truncate.truncate
+>>>>>>> a72fa305a93a7b13254f2b2b6eb213fe34027bbc
+
