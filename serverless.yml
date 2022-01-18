@@ -12,4 +12,4 @@ provider:
 
 functions:
   hello:
-    handler: src/handler.app
+    handler: test/truncate.truncate
